@@ -34,6 +34,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [ ] Start learning German again
 - [ ] Checkout GYM options
+- [ ] Watch https://www.ted.com/talks/sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show
 
 # Credits
 
