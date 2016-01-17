@@ -23,17 +23,14 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ## Things I'll do This Week:
 
 - [ ] Make [unisamenu](http://unisamenu.it/) work again, hosting it on Digital Ocean
-- [ ] Additional Mockups for [Goals Dashboard](https://github.com/patrick91/GoalsDashboard)
 - [ ] Progress in Android NanoDegree
-- [ ] Try to make a Meal Plan 🙀
 - [ ] Checkout [Intro to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] Checkout [Watson](http://www.ibm.com/cloud-computing/bluemix/solutions/watson/)
-- [ ] Get some ideas for GDG Campania and IrLUG websites
+- [ ] Organise Android Study Jam
 
 ### Things I'll Do in the Future:
 
 - [ ] Start learning German again
-- [ ] Checkout GYM options
 - [ ] Watch https://www.ted.com/talks/sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show
 - [ ] Check [Intermittent fasting](http://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
 - [ ] Watch [Cowspiracy](http://www.cowspiracy.com/)
