@@ -18,22 +18,21 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Publish at least one ios or android app
 10. Run 25km per week
 
-# 17 January 2016
+# 24 January 2016
 
-## Things I'll do This Week:
+## Things I'll do Next Week:
 
+- [ ] Compile [this](http://aso.ch/files/webcontent/communication/ASO_Buch_Concept_EN_151209.pdf)!
 - [ ] Make [unisamenu](http://unisamenu.it/) work again, hosting it on Digital Ocean
-- [ ] Progress in Android NanoDegree
 - [ ] Checkout [Intro to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] Checkout [Watson](http://www.ibm.com/cloud-computing/bluemix/solutions/watson/)
-- [ ] Organise Android Study Jam
 
 ### Things I'll Do in the Future:
 
 - [ ] Start learning German again
-- [ ] Watch https://www.ted.com/talks/sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show
 - [ ] Check [Intermittent fasting](http://jamesclear.com/the-beginners-guide-to-intermittent-fasting)
 - [ ] Watch [Cowspiracy](http://www.cowspiracy.com/)
+- [ ] Get some ideas for GDG Campania and IrLUG websites
 
 # Credits
 
