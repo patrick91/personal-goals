@@ -18,14 +18,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Publish at least one ios or android app
 10. Run 25km per week
 
-# 24 January 2016
+# 31 January 2016
 
 ## Things I'll do Next Week:
 
-- [ ] Compile [this](http://aso.ch/files/webcontent/communication/ASO_Buch_Concept_EN_151209.pdf)!
 - [ ] Make [unisamenu](http://unisamenu.it/) work again, hosting it on Digital Ocean
-- [ ] Checkout [Intro to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [ ] Checkout [Watson](http://www.ibm.com/cloud-computing/bluemix/solutions/watson/)
+- [ ] Work on a Chrome Extension
 
 ### Things I'll Do in the Future:
 
