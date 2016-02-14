@@ -18,14 +18,16 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Publish at least one ios or android app
 10. Run 25km per week
 
-# 7 February 2016
+# 14 February 2016
 
-## Next Week's Focus: Chrome extension
+## Next Week's Focus: Docker
 
 ## Things I'll do Next Week:
-- [ ] Try to release the first version of the extension I've been working on
-- [ ] Start exercising again
-- [ ] Start eating healthier again
+- [ ] Continue running
+- [ ] Continue eating good things
+- [ ] Learn more how docker is being used in the wild
+- [ ] Get ideas for a talk on React.JS
+
 
 ### Things I'll Do in the Future:
 
