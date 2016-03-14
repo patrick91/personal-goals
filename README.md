@@ -18,13 +18,12 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Publish at least one ios or android app
 10. Run 25km per week
 
-# 06 March 2016
+# 14 March 2016
 
-## Next Week's Focus: Android
+## Next Week's Focus: Relax
 
 ## Things I'll do Next Week:
-- [ ] Progress on the Android Nanodegree
-- [ ] Finish planning my trips
+- [ ] Rest a bit :)
 
 
 ### Things I'll Do in the Future:
