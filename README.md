@@ -18,10 +18,13 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 9. Publish at least one ios or android app
 10. Run 25km per week
 
-# 28 March 2016
+# 04 April 2016
 
-## Next Week's Focus: Django Con Europe!
+## Next Week's Focus: Android & Go Lang
 
+## Things I'll do Next Week:
+- [ ] Progress on the Android Nanodegree
+- [ ] Some stuff with golang
 
 
 ### Things I'll Do in the Future:
